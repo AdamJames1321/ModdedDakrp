@@ -335,7 +335,7 @@ TEAM_MOTELWORKER = AddExtraTeam("Motel Worker", {
 	mayorCanSetSalary = true
 })
 
-TEAM_FIREFIGHTER = AddExtraTeam("Motel Worker", {
+TEAM_FIREFIGHTER = AddExtraTeam("Fire Fighter", {
 	color = Color(22, 34, 10, 255),
 	model = "models/player/barney.mdl",
 	description = [[You work for the Governmment. You put out fires from Mollys.]],
