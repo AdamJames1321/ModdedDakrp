@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"		"Custom Chat Colors for ULX"
+	"version"	"1.0"
+	"up_date"	"12/8/12"
+	"author_name"	"Adult"
+	"author_email"	"mattjeisan@gmail.com"
+	"author_url"	"www.millinon.com"
+	"info"		"Allows players to have custom chat colors."
+}

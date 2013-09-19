@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name" "DarkRP Replacement Scoreboard"
+	"author_name" "author"
+	"info" "This is a replacement scoreboard for DarkRP for those who don't like using FAdmin and wish to remove it. It's actually the scoreboard from before FAdmin was added, I just ported it over to GMod 13. To remove FAdmin, you should first delete the file darkrp/gamemode/shared/FAdmin_DarkRP.lua, then install this addon on your server.
+
+DarkRP: http://github.com/FPtje/DarkRP
+More info: http://wiki.darkrp.com/index.php/DarkRP:RemovingFAdmin
+How to install serverside: http://wiki.garrysmod.com/page/Server/Workshop
+
+If you have any problems feel free to add me on Steam."
+}
