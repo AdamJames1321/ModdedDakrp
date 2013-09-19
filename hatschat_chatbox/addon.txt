@@ -2,7 +2,7 @@
 {
 	"name"        "HatsChat Chat Box"
 	"version"     "7"
-	"author_name" "my_hat_stinks"
+	"author_name" "_"
 	"author_url"  ""
 	"info"        "A chatbox"
 	"override"    "0"
